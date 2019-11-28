@@ -1,4 +1,4 @@
-package main.java.observe.publisher.interfases;
+package main.java.observe.publisher.interfaces;
 
 public interface Observer {
 

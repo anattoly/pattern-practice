@@ -1,7 +1,7 @@
 package main.java.observe.publisher.implementations;
 
-import main.java.observe.publisher.interfases.Observer;
-import main.java.observe.publisher.interfases.Subject;
+import main.java.observe.publisher.interfaces.Observer;
+import main.java.observe.publisher.interfaces.Subject;
 
 import java.util.ArrayList;
 import java.util.List;

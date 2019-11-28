@@ -1,8 +1,8 @@
 package main.java.observe.subscribers;
 
-import main.java.observe.publisher.interfases.DisplayElement;
-import main.java.observe.publisher.interfases.Observer;
-import main.java.observe.publisher.interfases.Subject;
+import main.java.observe.publisher.interfaces.DisplayElement;
+import main.java.observe.publisher.interfaces.Observer;
+import main.java.observe.publisher.interfaces.Subject;
 
 public class CurrentConditionsDisplay implements Observer, DisplayElement {
     private float temperature;
